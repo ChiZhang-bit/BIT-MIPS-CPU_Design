@@ -1,0 +1,18 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.sim/sim_1/behav/xsim/glbl.v,1634214584,verilog,,,,glbl,,,,,,,,
+C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sim_1/new/testbench.v,1634214584,verilog,,,,testbench,,,,,,,,
+C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/alu.v,1661241213,verilog,,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/confreg/confreg.v,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/head.vh,alu,,,,,,,,
+C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/confreg/confreg.v,1634214584,verilog,,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/control.v,,confreg,,,,,,,,
+C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/control.v,1661159588,verilog,,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/cpu.v,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/head.vh,control,,,,,,,,
+C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/cpu.v,1661172054,verilog,,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/pc.v,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/head.vh,cpu,,,,,,,,
+C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/head.vh,1661157546,verilog,,,,,,,,,,,,
+C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/ip/data_ram/sim/data_ram.v,1634214584,verilog,,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/ip/inst_rom/sim/inst_rom.v,,data_ram,,,,,,,,
+C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/ip/inst_rom/sim/inst_rom.v,1661082301,verilog,,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/alu.v,,inst_rom,,,,,,,,
+C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/pc.v,1634214584,verilog,,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/regfile.v,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/head.vh,pc,,,,,,,,
+C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/regfile.v,1634214584,verilog,,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/shifter.v,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/head.vh,regfile,,,,,,,,
+,,,,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/single_cycle.v,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/head.vh,shifter,,,,,,,,
+C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sources_1/new/single_cycle.v,1634214584,verilog,,C:/Users/LX/Desktop/mips/fu/single_cycle/single_cycle.srcs/sim_1/new/testbench.v,,single_cycle,,,,,,,,
+C:/Users/LX/Desktop/mips/fu/单周期CPU源代码/SSR_CPU/single_cycle/single_cycle.srcs/sources_1/new/head.vh,1634214584,verilog,,,,,,,,,,,,
